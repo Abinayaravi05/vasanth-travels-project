@@ -35,7 +35,7 @@ body { font-family: 'Poppins', sans-serif; line-height:1.6; color:#333; backgrou
   text-align: center;
   padding: 80px 0;
   color: #fff;
-  background: url('Untitled design_20250715_091335_0000_page-0001.jpg') no-repeat center center/cover;
+  background: url('images/background.jpg') no-repeat center center/cover;
   overflow: hidden;
 }
 
@@ -215,35 +215,35 @@ padding-left:10px ;
 
 /* Background images for each service */
 .service-visa .image-area {
-  background-image: url('i\ want\ visa\ image.jpg');
+  background-image: url('images/visaimage.jpg');
 }
 
 .service-flight .image-area {
-  background-image: url('Untitled\ design_20250716_092320_0000.jpg');
+  background-image: url('images/flight.jpg');
 }
 
 .service-tour .image-area {
-  background-image: url('20250716_092122_0000.jpg');
+  background-image: url('images/tour.jpg');
 }
 
 .service-migration .image-area {
-  background-image: url('study\ related\ image.jpg');
+  background-image: url('images/studyimage.jpg');
 }
 
 .dest-europe .image-area {
-  background-image: url('Europe\ .jpg');
+  background-image: url('images/Europe\ .jpg');
 }
 
 .dest-canada .image-area {
-  background-image: url('canada.jpg');
+  background-image: url('images/canada.jpg');
 }
 
 .dest-dubai .image-area {
-  background-image: url('dubai.jpg');
+  background-image: url('images/dubai.jpg');
 }
 
 .dest-singapore .image-area {
-  background-image: url('singapoor .jpg');
+  background-image: url('images/singapoor.jpg');
 }
 
 

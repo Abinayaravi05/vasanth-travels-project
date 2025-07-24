@@ -313,13 +313,18 @@ padding-left:10px ;
     text-align: center;
   }
 
+  .why-image {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* 🧲 Center the image horizontally */
+  }
+
   .why-image img {
     width: 90%;
-    margin-bottom: 0px; /* 👈 Remove gap under image */
+    margin-bottom: 0;
   }
 
   .why-text {
-    margin-top: -20px;  /* 👈 Now it will go UP, like magic */
+    margin-top: -20px;
   }
 }
-

@@ -309,7 +309,7 @@ padding-left:10px ;
   .why-image img {
     width: 90%;
     margin-left: 0;
-   
+    margin-bottom: 10px; /* reduce bottom space if needed */
   }
 
   .why-flex {
@@ -318,12 +318,7 @@ padding-left:10px ;
     text-align: center;
   }
 
- 
-  why-text h2{
-    margin-top:20px;
-    padding-top:20px;
+  .why-text {
+    margin-top: -20px; /* this moves the whole text block UP */
   }
-  why-text ul{
-    margin-top:20px;
-    padding-top:20px;
-  }}
+}

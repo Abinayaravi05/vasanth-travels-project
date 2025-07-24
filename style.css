@@ -311,16 +311,18 @@ padding-left:10px ;
   .why-image img {
     width: 90%;
     margin-left: 0;
-    margin-bottom: 30px;
+   
   }
 
   .why-flex {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    position:relative;
   }
 
   .why-text {
     margin-top:-30px;
+    position:relative;
   }
 }

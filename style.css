@@ -305,26 +305,25 @@ padding-left:10px ;
   padding: 20px;
   margin:auto;
 }
-
 @media screen and (max-width: 768px) {
+  .why-image img {
+    width: 90%;
+    margin-left: 0;
+    margin-bottom: 30px;
+  }
+
   .why-flex {
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .why-image {
-    width: 100%;
-    display: flex;
-    justify-content: center; /* 🧲 Center the image horizontally */
-  }
-
-  .why-image img {
-    width: 90%;
-    margin-bottom: 0;
-  }
-
   .why-text {
-    margin-top: -20px;
+    margin: 0;
   }
-}
+  why-text h2{
+    margin-top:20px;
+  }
+  why-text ul{
+    margin-top:20px;
+  }}

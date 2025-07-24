@@ -314,7 +314,7 @@ padding-left:10px ;
   }
 
   .why-flex {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     text-align: center;
   }
